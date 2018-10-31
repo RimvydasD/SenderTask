@@ -7,7 +7,6 @@ if(isset($_POST['session'])){
     header('Location: '.$settings['uri']);
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,7 +34,5 @@ if(isset($_POST['session'])){
         }
         ?>
     </div>
-
-
 </body>
 </html> 

@@ -4,7 +4,8 @@ $serverSettings =
     [
         'servername'    => 'localhost',
         'username'      => 'root',
-        'password'      => '123'
+        'password'      => '123',
+        'DBname'        => 'senderTask'
     ];
 $settings = 
     [
